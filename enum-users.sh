@@ -1,7 +1,8 @@
 #!/bin/bash
-echo "This tool is doing your command for 0/24(0-255) ranges for the ip block you gave.
+echo "This tool helps you to enumerate users for Active Directory..
 
 "
+
 read -p "ip block for the users (ex: 192.168.0.0/24):  " ip
 read -p "give an outputfile for the usernames: " output
 
